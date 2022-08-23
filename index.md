@@ -1,7 +1,7 @@
 # start
 ## start 2
 ![cat from https://octodex.github.com/](https://octodex.github.com/images/Fintechtocat.png)
-```
+```java
 System.out.println("Hello, github!!!");
 ```
 - [X] Step 1
